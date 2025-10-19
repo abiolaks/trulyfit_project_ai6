@@ -116,8 +116,7 @@ The system will be developed in *phases*, evolving from a rule-based MVP to an a
 
 ## 5. System Architecture
 
-```mermaid
-flowchart TD
+```
     A[User Profile Input] --> B[Calorie Prediction Model]
     B --> C[Calorie Target (kcal/day)]
     C --> D[Meal Plan Generator]
