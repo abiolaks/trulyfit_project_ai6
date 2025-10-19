@@ -1,6 +1,6 @@
 # TrulyFitAI
 # trulyfit_project_ai6
-Data Enrichment and Fitness recommendation Model
+
 
 ## Timeline
 | Task | Duration | Deadline |
@@ -11,6 +11,7 @@ Data Enrichment and Fitness recommendation Model
 | Model Training | 13th - 18th October | 20th October |
 | Front-end & Model Deployment | 21st - 25th October | 25th October |
 | Documentation | Throughout the Project | End of project |
+
 
 
 
