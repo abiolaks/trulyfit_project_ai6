@@ -1,0 +1,7 @@
+dvc_s3
+mlflow
+scikit-learn
+dvc
+dagshub
+ipykernel
+python-dotenv

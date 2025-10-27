@@ -1,0 +1,5 @@
+outs:
+- md5: e1bbe2a38a2fb344fb199334669bf445
+  size: 10096725
+  hash: md5
+  path: life_style.csv
