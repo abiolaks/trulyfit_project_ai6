@@ -49,6 +49,9 @@ You can build a **regression model** to predict *calorie intake from food* using
     - `height`
     - `weight`
     - `age`
+    - `lean_mass`
+    - `fat_percentage`
+    - `protein_per_g`
   - Scaling ensures stable model performance and better convergence for most regression algorithms.
 
 ---
